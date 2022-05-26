@@ -1,9 +1,0 @@
-=================================
-Остале примене сортирања - задаци
-=================================
-
-    https://petlja.org/biblioteka/r/Zbirka2/h_indeks
-
-
-    https://petlja.org/biblioteka/r/Zbirka2/zbir_minimuma_trojki
-
