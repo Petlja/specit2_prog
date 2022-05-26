@@ -1,0 +1,18 @@
+===============================
+Динамичко програмирање - задаци
+===============================
+
+    https://petlja.org/biblioteka/r/Zbirka2/max_zbir_puta_kroz_matricu
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/cilindricna_matrica
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/najduzi_zajednicki_podniz_stringa
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/najduza_zajednicka_podniska
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/dopuna_nulama_do_max_skalarnog_proizvoda
+

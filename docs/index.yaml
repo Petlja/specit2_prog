@@ -1,0 +1,550 @@
+courseId: kurs-drugi-spec-IT
+description:
+  externalLinks: []
+  longDescription: '<div class="document">
+
+    <p>Овај курс је намењен ученицима специјализованог ИТ одељена 2. разреда за предмет
+    Програмирање 2. Материјал је организован по целинама.
+
+    Пролазећи кроз курс изучаваћете различите технике конструкције ефикасних алгоритама.</p>
+
+    <p>Поред рада у школи, курс се може пролазити и самостално.</p>
+
+    <p>&lt;p&gt;
+
+    &lt;a rel=&quot;license&quot; href=&quot;<a class="reference external" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">https://creativecommons.org/licenses/by/4.0/deed.sr_LATN</a>&quot;&gt;
+
+    &lt;img alt=&quot;Creative Commons License&quot; style=&quot;border-width:0&quot;
+    src=&quot;https://i.creativecommons.org/l/by/4.0/88x31.png&quot; /&gt;&lt;/a&gt;
+
+    &lt;br /&gt;Овај курс Фондација Петља објавила je под лиценцом &lt;a rel=&quot;license&quot;
+    href=&quot;https://creativecommons.org/licenses/by/4.0/deed.sr_LATN&quot;&gt;Creative
+    Commons Autorstvo 4.0 Međunarodna Licenca (CC BY 4.0)&lt;/a&gt;.
+
+    &lt;/p&gt;</p>
+
+    </div>
+
+    '
+  requirements:
+  - развојно окружење за програмски језик C# (Microsoft Visual Studio или MonoDevelop)
+  shortDescription: Програмирање
+  toc:
+  - Коректност алгоритама
+  - Сложеност алгоритама
+  - Рекурзија
+  - Бектрекинг
+  - Подели па владај
+  - Динамичко програмирање
+  willLearn:
+  - Научићеш да примењујеш технику рекурзије да би конструисао алгоритме за решавање
+    проблемских задатака и да оптимизујеш програме засноване на техници рекурзије
+lang: sr-Cyrl
+lessons:
+- activities:
+  - description: ''
+    file: Korektnost_01_Uvod.html
+    guid: 8c1f6c9c-9a8f-4627-9522-3f642fe1a799
+    src: Korektnost_01_Uvod.rst
+    title: Коректност алгоритама
+    type: reading
+  - description: ''
+    file: Korektnost_01b_test.html
+    guid: d6a65d0d-77be-48f8-a5f9-d323c4bc4d17
+    src: Korektnost_01b_test.rst
+    title: Коректност алгоритама - тест
+    type: quiz
+  - description: ''
+    file: Korektnost_02_indukcija.html
+    guid: a348ca46-1960-43eb-a26e-1422167b3112
+    src: Korektnost_02_indukcija.rst
+    title: Индуктивна/рекурзивна конструкција
+    type: reading
+  - description: ''
+    file: Korektnost_03a_AritmetickiTrougao.html
+    guid: 68b62fdd-740b-486c-b7c5-7e90d80f3a97
+    src: Korektnost_03a_AritmetickiTrougao.rst
+    title: 'Пример: аритметички троугао'
+    type: reading
+  - description: ''
+    file: Korektnost_03b_Dvobojka.html
+    guid: a8430c38-2350-4f07-8574-5c12a5e401e6
+    src: Korektnost_03b_Dvobojka.rst
+    title: 'Пример: двобојка'
+    type: reading
+  - description: ''
+    file: Korektnost_03c_Trobojka.html
+    guid: fcb3e92e-78e9-4b27-8ea9-0ea22974ff88
+    src: Korektnost_03c_Trobojka.rst
+    title: 'Пример: тробојка'
+    type: reading
+  - description: ''
+    file: Korektnost_03d_BinarnaPretraga.html
+    guid: ef8ce6d5-93ef-48f6-a790-2806de08d5dc
+    src: Korektnost_03d_BinarnaPretraga.rst
+    title: 'Пример: бинарна претрага'
+    type: reading
+  - description: ''
+    file: Korektnost_03f_BinarniZapis.html
+    guid: 876a24a4-8612-4fa6-8f30-e733db7619ca
+    src: Korektnost_03f_BinarniZapis.rst
+    title: 'Пример: бинарни запис броја'
+    type: reading
+  - description: ''
+    file: Korektnost_03e_NajmanjiNezbir.html
+    guid: cb9d0f1c-efaa-4bcd-97b4-bfc88b5c74a5
+    src: Korektnost_03e_NajmanjiNezbir.rst
+    title: 'Пример: најмањи број који није збир подскупа'
+    type: reading
+  archived-activities: []
+  description: Коректност алгоритама
+  folder: korektnost
+  guid: 77e40eb7-5291-4f19-b648-e8073371139e
+  normalized_title: 1. Коректност
+  title: 1. Коректност
+- activities:
+  - description: ''
+    file: Slozenost_01_Uvod.html
+    guid: 0fb4f368-2fe9-4343-ac5b-d7c25eff65ae
+    src: Slozenost_01_Uvod.rst
+    title: 2.1 Сложеност алгоритама
+    type: reading
+  - description: ''
+    file: Slozenost_01b_test.html
+    guid: c014afd6-330f-4579-a1d4-abb2f33162da
+    src: Slozenost_01b_test.rst
+    title: Сложеност алгоритама - тест
+    type: quiz
+  - description: ''
+    file: Slozenost_02_ZamenaIteracijeFormulom.html
+    guid: 31f4d25f-7c9f-4625-a4bc-43d4e807670b
+    src: Slozenost_02_ZamenaIteracijeFormulom.rst
+    title: 2.2 Замена итерације формулом
+    type: reading
+  - description: ''
+    file: Замена итерације формулом - задаци.html
+    guid: 2660a03c-ecb7-4f18-b73b-f298e3b0794d
+    src:
+    - https://petlja.org/biblioteka/r/Zbirka2/n_ti_dan_treninga
+    - https://petlja.org/biblioteka/r/Zbirka2/sportske_pripreme
+    - https://petlja.org/biblioteka/r/Zbirka2/aritmeticki_trougao1
+    - https://petlja.org/biblioteka/r/Zbirka2/aritmeticki_kvadrat
+    - https://petlja.org/biblioteka/r/Zbirka2/broj_podstringova_koji_pocinju_i_zavrsavaju_sa_1
+    - https://petlja.org/biblioteka/r/Zbirka2/nedostajuci_broj
+    - https://petlja.org/biblioteka/r/Zbirka2/hlebovi
+    - https://petlja.org/biblioteka/r/Zbirka2/deljivi_oko_broja
+    - https://petlja.org/biblioteka/r/problemi/Zbirka/broj_deljivih_u_intervalu
+    - https://petlja.org/biblioteka/r/problemi/Zbirka/euklid
+    title: Замена итерације формулом - задаци
+    type: coding-quiz
+  - description: ''
+    file: Slozenost_03_Odsecanje.html
+    guid: 521b0bd7-0bbc-4234-bc33-eba65803b7dd
+    src: Slozenost_03_Odsecanje.rst
+    title: 2.3 Одсецање
+    type: reading
+  - description: ''
+    file: Одсецање - задаци.html
+    guid: 4977b2c7-ecb6-407f-b478-77a704ab2efa
+    src:
+    - https://petlja.org/biblioteka/r/Zbirka2/eratostenovo_sito
+    - https://petlja.org/biblioteka/r/Zbirka2/najduza_serija_pobeda
+    - https://petlja.org/biblioteka/r/Zbirka2/serija_sjajnih_partija
+    - https://petlja.org/biblioteka/r/Zbirka2/najduza_serija_pobeda
+    - https://petlja.org/biblioteka/r/Zbirka2/broj_rastucih_segmenata
+    - https://petlja.org/biblioteka/r/Zbirka2/maksimalni_zbir_segmenta
+    title: Одсецање - задаци
+    type: coding-quiz
+  - description: ''
+    file: Slozenost_04_Sortiranje.html
+    guid: abcf788f-3366-48ea-8903-84df8dcd405f
+    src: Slozenost_04_Sortiranje.rst
+    title: 2.4 Сортирање
+    type: reading
+  - description: ''
+    file: Slozenost_04a_Sortiranje_kriterijumi.html
+    guid: 36e04016-a7e9-48bd-98f2-5bfd80d93fc4
+    src: Slozenost_04a_Sortiranje_kriterijumi.rst
+    title: Сортирање по задатом критеријуму
+    type: reading
+  - description: ''
+    file: Сортирање по разним критеријумима - задаци.html
+    guid: 83e676df-2fc4-41ac-bfde-e11775b8b4f9
+    src:
+    - https://petlja.org/biblioteka/r/Zbirka2/najvredniji_predmeti
+    - https://petlja.org/biblioteka/r/Zbirka2/sortiranje_linija
+    - https://petlja.org/biblioteka/r/Zbirka2/sortiranje_po_proseku
+    - https://petlja.org/biblioteka/r/Zbirka2/rang_svakog_elementa
+    - https://petlja.org/biblioteka/r/Zbirka2/dvobojka
+    title: Сортирање по разним критеријумима - задаци
+    type: coding-quiz
+  - description: ''
+    file: Slozenost_04b_Sortiranje_primene.html
+    guid: ed3fdc30-ce55-4481-b58d-91e2dac4e7b5
+    src: Slozenost_04b_Sortiranje_primene.rst
+    title: Неке примене сортирања
+    type: reading
+  - description: ''
+    file: Обрада дупликата - задаци.html
+    guid: 6e4187c8-16e2-42e9-bf15-26d954ec3d22
+    src:
+    - https://petlja.org/biblioteka/r/Zbirka2/dvostruki_student
+    - https://petlja.org/biblioteka/r/Zbirka2/neupareni_element
+    - https://petlja.org/biblioteka/r/Zbirka2/najveci_duplikat
+    - https://petlja.org/biblioteka/r/Zbirka2/razlicite_duzine_duzi
+    - https://petlja.org/biblioteka/r/Zbirka2/najbrojniji_element
+    title: Обрада дупликата - задаци
+    type: coding-quiz
+  - description: ''
+    file: Груписање блиских вредности - задаци.html
+    guid: 39b5ad46-1dd6-4262-b4ae-611a7e4423ab
+    src:
+    - https://petlja.org/biblioteka/r/Zbirka2/najblize_sobe
+    - https://petlja.org/biblioteka/r/Zbirka2/pravedna_podela_cokoladica
+    - https://petlja.org/biblioteka/r/Zbirka2/najduzi_podskup_uzastopnih
+    title: Груписање блиских вредности - задаци
+    type: coding-quiz
+  - description: ''
+    file: Свођење на канонски облик - задаци.html
+    guid: af5944fb-23c6-49f2-8312-fcf05b2bb1a1
+    src:
+    - https://petlja.org/biblioteka/r/Zbirka2/anagram
+    - https://petlja.org/biblioteka/r/Zbirka2/d_permutacija
+    - https://petlja.org/biblioteka/r/Zbirka2/anagrami
+    title: Свођење на канонски облик - задаци
+    type: coding-quiz
+  - description: ''
+    file: Сортирање интервала - задаци.html
+    guid: 2162c067-6015-488c-97dd-89770f3484da
+    src:
+    - https://petlja.org/biblioteka/r/Zbirka2/najbrojniji_presek_intervala
+    - https://petlja.org/biblioteka/r/Zbirka2/pokrivanje_prave_odseccima
+    title: Сортирање интервала - задаци
+    type: coding-quiz
+  - description: ''
+    file: Остале примене сортирања - задаци.html
+    guid: e4b8601d-4989-4bb3-975e-a9b01595a5ec
+    src:
+    - https://petlja.org/biblioteka/r/Zbirka2/h_indeks
+    - https://petlja.org/biblioteka/r/Zbirka2/zbir_minimuma_trojki
+    title: Остале примене сортирања - задаци
+    type: coding-quiz
+  - description: ''
+    file: Slozenost_05_BinarnaPretraga.html
+    guid: 5f54c154-95a4-47bf-b7aa-4d867b3aca18
+    src: Slozenost_05_BinarnaPretraga.rst
+    title: 2.5 Бинарна претрага
+    type: reading
+  - description: ''
+    file: Slozenost_05a_BinarnaPretragaElemenata.html
+    guid: 6c89f2d1-fb34-4b7c-ba43-53b3f0c7e0c2
+    src: Slozenost_05a_BinarnaPretragaElemenata.rst
+    title: Бинарна претрага елемента у низу
+    type: reading
+  - description: ''
+    file: Бинарна претрага елемента у низу - задаци.html
+    guid: ceb42ad5-910e-43c7-af51-922fee34f204
+    src:
+    - https://petlja.org/biblioteka/r/Zbirka2/binarna_pretraga
+    - https://petlja.org/biblioteka/r/Zbirka2/broj_parova_datog_zbira
+    - https://petlja.org/biblioteka/r/Zbirka2/rang_svakog_elementa1
+    - https://petlja.org/biblioteka/r/Zbirka2/iti_na_mestu_i
+    title: Бинарна претрага елемента у низу - задаци
+    type: coding-quiz
+  - description: ''
+    file: Slozenost_05b_BinarnaPretragaPrelomneTacke.html
+    guid: aa9184ef-a76b-4b9e-9cf0-2b3a014de3b0
+    src: Slozenost_05b_BinarnaPretragaPrelomneTacke.rst
+    title: Бинарна претрага преломне тачке
+    type: reading
+  - description: ''
+    file: Бинарна претрага преломне тачке - задаци.html
+    guid: fbb4657f-d9b6-4fd4-85ed-92cf455778c6
+    src:
+    - https://petlja.org/biblioteka/r/Zbirka2/prvi_veci_poslednji_manji
+    - https://petlja.org/biblioteka/r/Zbirka2/binarna_pretraga1
+    - https://petlja.org/biblioteka/r/Zbirka2/broj_takmicara_iznad_praga
+    - https://petlja.org/biblioteka/r/Zbirka2/tastatura_i_mis
+    - https://petlja.org/biblioteka/r/Zbirka2/kruzne_zone
+    - https://petlja.org/biblioteka/r/Zbirka2/razlika_visina
+    - https://petlja.org/biblioteka/r/Zbirka2/najblizi_datom_elementu
+    - https://petlja.org/biblioteka/r/Zbirka2/optimalni_servis
+    - https://petlja.org/biblioteka/r/Zbirka2/prvi_paran1
+    - https://petlja.org/biblioteka/r/Zbirka2/vrh_planine
+    - https://petlja.org/biblioteka/r/Zbirka2/k_najblizih_datom
+    - https://petlja.org/biblioteka/r/Zbirka2/minimum_rotiranog_sortiranog_niza
+    - https://petlja.org/biblioteka/r/Zbirka2/pretraga_rotiranog_sortiranog_niza
+    title: Бинарна претрага преломне тачке - задаци
+    type: coding-quiz
+  - description: ''
+    file: Slozenost_05c_BinarnaPretragaOptResenja.html
+    guid: 5b1fb879-1936-4de5-bf34-c5bb0f97f089
+    src: Slozenost_05c_BinarnaPretragaOptResenja.rst
+    title: Проналажење оптималне вредности решења бинарном претрагом
+    type: reading
+  - description: ''
+    file: Проналажење оптималне вредности решења бинарном претрагом - задаци.html
+    guid: 0357321a-1ed5-47dc-abfc-8dffeb884667
+    src:
+    - https://petlja.org/biblioteka/r/Zbirka2/h_indeks1
+    - https://petlja.org/biblioteka/r/Zbirka2/drva
+    - https://petlja.org/biblioteka/r/Zbirka2/najveci_kvadrat_u_histogramu
+    - https://petlja.org/biblioteka/r/Zbirka2/stucajuci_podniz
+    - https://petlja.org/biblioteka/r/Zbirka2/k_razlika_max_min
+    - https://petlja.org/biblioteka/r/Zbirka2/gradnja
+    title: Проналажење оптималне вредности решења бинарном претрагом - задаци
+    type: coding-quiz
+  - description: ''
+    file: Slozenost_06_SkupoviMape.html
+    guid: 6fd510f7-a23d-43d9-a37d-e573347e3523
+    src: Slozenost_06_SkupoviMape.rst
+    title: 2.6 Скупови и мапе (речници)
+    type: reading
+  - description: ''
+    file: Скупови и мапе (речници) - задаци.html
+    guid: 77cfe953-fac1-4796-82fb-11eb5f957cc8
+    src:
+    - https://petlja.org/biblioteka/r/Zbirka2/duplikati1
+    - https://petlja.org/biblioteka/r/Zbirka2/dvostruki_student1
+    - https://petlja.org/biblioteka/r/Zbirka2/neupareni_element1
+    - https://petlja.org/biblioteka/r/Zbirka2/najbrojniji_element1
+    - https://petlja.org/biblioteka/r/Zbirka2/najveci_duplikat1
+    - https://petlja.org/biblioteka/r/Zbirka2/razlicite_duzine_duzi1
+    - https://petlja.org/biblioteka/r/Zbirka2/broj_parova_datog_zbira1
+    - https://petlja.org/biblioteka/r/Zbirka2/three_sum
+    - https://petlja.org/biblioteka/r/Zbirka2/provera_permutacija1
+    title: Скупови и мапе (речници) - задаци
+    type: coding-quiz
+  - description: ''
+    file: Slozenost_07_Inkrementalnost.html
+    guid: feaa2d49-1493-4768-8d66-ef46df284044
+    src: Slozenost_07_Inkrementalnost.rst
+    title: 2.7 Инкременталност
+    type: reading
+  - description: ''
+    file: Инкременталност - задаци.html
+    guid: 6f9d1ad7-b216-4537-a8d5-d1ee94b6d70e
+    src:
+    - https://petlja.org/biblioteka/r/Zbirka2/prefiks_najveceg_zbira
+    - https://petlja.org/biblioteka/r/Zbirka2/segment_celih_datog_zbira
+    - https://petlja.org/biblioteka/r/Zbirka2/faktorijeli_od_1_do_n
+    - https://petlja.org/biblioteka/r/Zbirka2/harmonijski_pi
+    - https://petlja.org/biblioteka/r/Zbirka2/suma_reda
+    - https://petlja.org/biblioteka/r/Zbirka2/optimalni_servis1
+    - https://petlja.org/biblioteka/r/Zbirka2/drva1
+    - https://petlja.org/biblioteka/r/Zbirka2/h_indeks2
+    - https://petlja.org/biblioteka/r/Zbirka2/najbolji_sabmit
+    - https://petlja.org/biblioteka/r/Zbirka2/pogled_na_reku
+    - https://petlja.org/biblioteka/r/Zbirka2/red_osoba
+    - https://petlja.org/biblioteka/r/Zbirka2/maks_zbir_segmenta_fiksiranog_pocetka
+    - https://petlja.org/biblioteka/r/problemi/Zbirka/najduza_serija_pobeda
+    - https://petlja.org/biblioteka/r/Zbirka2/serija_sjajnih_partija1
+    - https://petlja.org/biblioteka/r/Zbirka2/minimumi_pravougaonika
+    title: Инкременталност - задаци
+    type: coding-quiz
+  - description: ''
+    file: Инкременталност - додатни задаци.html
+    guid: ea8f8dce-9426-491a-810e-8b3dccc05e4f
+    src:
+    - https://petlja.org/biblioteka/r/Zbirka2/ruter
+    - https://petlja.org/biblioteka/r/Zbirka2/suma_posle_ciklicnog_pomeranja
+    - https://petlja.org/biblioteka/r/Zbirka2/dobri_takmicari
+    - https://petlja.org/biblioteka/r/Zbirka2/pangrami
+    - https://petlja.org/biblioteka/r/Zbirka2/permutovani_podstringovi
+    - https://petlja.org/biblioteka/r/Zbirka2/najduzi_segment_koji_sadrzi_uzastopne_brojeve
+    - https://petlja.org/biblioteka/r/Zbirka2/broj_rastucih_segmenata1
+    - https://petlja.org/biblioteka/r/Zbirka2/sume_trapeza
+    title: Инкременталност - додатни задаци
+    type: coding-quiz
+  - description: ''
+    file: Slozenost_08_ZbiroviPrefiksa.html
+    guid: db65337a-74c5-4d9b-bfed-fe8a337eb4a7
+    src: Slozenost_08_ZbiroviPrefiksa.rst
+    title: 2.8 Збирови префикса и разлике суседних елемената
+    type: reading
+  - description: ''
+    file: Збирови префикса и разлике суседних елемената - задаци.html
+    guid: efba5b76-8830-40f0-8afc-614003782d02
+    src:
+    - https://petlja.org/biblioteka/r/Zbirka2/aritmeticki_trougao1
+    - https://petlja.org/biblioteka/r/Zbirka2/sume_segmenata
+    - https://petlja.org/biblioteka/r/Zbirka2/maksimalni_zbir_segmenta
+    - https://petlja.org/biblioteka/r/Zbirka2/segment_celih_datog_zbira1
+    - https://petlja.org/biblioteka/r/Zbirka2/segment_prirodnih_datog_zbira
+    - https://petlja.org/biblioteka/r/Zbirka2/segmenti_deljivi_sa_k
+    - https://petlja.org/biblioteka/r/Zbirka2/slatkisi_za_sav_novac
+    - https://petlja.org/biblioteka/r/Zbirka2/zbirovi_podmatrica
+    - https://petlja.org/biblioteka/r/Zbirka2/par_proizvoda_u_rancu
+    - https://petlja.org/biblioteka/r/Zbirka2/uvecavanje_segmenata
+    - https://petlja.org/biblioteka/r/Zbirka2/najbrojniji_presek_intervala
+    - https://petlja.org/biblioteka/r/Zbirka2/permutacija_sa_najvecim_zbirom_upita
+    title: Збирови префикса и разлике суседних елемената - задаци
+    type: coding-quiz
+  - description: ''
+    file: Slozenost_09_DvaPokazivaca.html
+    guid: 6898c334-4b31-4fc2-9369-65f1de6a438f
+    src: Slozenost_09_DvaPokazivaca.rst
+    title: 2.9 Техника два показивача
+    type: reading
+  - description: ''
+    file: Техника два показивача - задаци.html
+    guid: daabb83f-2d8b-4697-a83c-f6ac37d83f07
+    src:
+    - https://petlja.org/biblioteka/r/Zbirka2/presek_tri_sortirana_niza
+    - https://petlja.org/biblioteka/r/Zbirka2/blizanci
+    - https://petlja.org/biblioteka/r/Zbirka2/prosti_cinioci_235
+    - https://petlja.org/biblioteka/r/Zbirka2/tastatura_i_mis1
+    - https://petlja.org/biblioteka/r/Zbirka2/optimalni_servis
+    - https://petlja.org/biblioteka/r/Zbirka2/dvobojka
+    - https://petlja.org/biblioteka/r/Zbirka2/trobojka
+    - https://petlja.org/biblioteka/r/Zbirka2/broj_parova_datog_zbira
+    - https://petlja.org/biblioteka/r/Zbirka2/three_sum
+    - https://petlja.org/biblioteka/r/Zbirka2/razlika_visina
+    - https://petlja.org/biblioteka/r/Zbirka2/segment_prirodnih_datog_zbira
+    - https://petlja.org/biblioteka/r/Zbirka2/k_razlika_max_min1
+    - https://petlja.org/biblioteka/r/Zbirka2/konferencija
+    - https://petlja.org/biblioteka/r/Zbirka2/najkraca_podniska_koja_sadrzi_date_karaktere1
+    - https://petlja.org/biblioteka/r/Zbirka2/broj_segmenata_sa_razlicitim_elementima1
+    title: Техника два показивача - задаци
+    type: coding-quiz
+  archived-activities: []
+  description: Сложеност алгоритама
+  folder: slozenost
+  guid: ea23322a-b698-4a2b-a802-d8204b6a442c
+  normalized_title: 2. Сложеност
+  title: 2. Сложеност
+- activities:
+  - description: ''
+    file: Rekurzija_01_HanojskeKule.html
+    guid: 536a119e-5954-4dbb-8f75-2dea89636e2a
+    src: Rekurzija_01_HanojskeKule.rst
+    title: 3.0 Ханојске куле
+    type: reading
+  - description: ''
+    file: Rekurzija_02_OsnovniPojmovi.html
+    guid: e5b5cd06-2ab2-4494-ae4f-cbaebc76fac3
+    src: Rekurzija_02_OsnovniPojmovi.rst
+    title: 3.1 Рекурзија - основни појмови
+    type: reading
+  - description: ''
+    file: Rekurzija_02_OsnovniPojmovi_Test.html
+    guid: 3e384641-f6fa-412c-8fe5-6ff6cdf8725e
+    src: Rekurzija_02_OsnovniPojmovi_Test.rst
+    title: Рекурзија - основни појмови - тест
+    type: quiz
+  - description: ''
+    file: Rekurzija_03_Nizovi.html
+    guid: 8c26752a-6b7c-4224-9530-82e11cf25616
+    src: Rekurzija_03_Nizovi.rst
+    title: 3.2 Рекурзија и низови
+    type: reading
+  - description: ''
+    file: Rekurzija_03_Nizovi_Test.html
+    guid: b0211cd5-c101-4785-8ebe-6383a20fb7c5
+    src: Rekurzija_03_Nizovi_Test.rst
+    title: Рекурзија и низови - тест
+    type: quiz
+  - description: ''
+    file: Rekurzija_04_CifreBroja.html
+    guid: ca71d6e8-0e40-466f-b673-6e06880239dc
+    src: Rekurzija_04_CifreBroja.rst
+    title: 3.3 Рекурзија - цифре у запису броја
+    type: reading
+  - description: ''
+    file: Rekurzija_04_CifreBroja_Test.html
+    guid: 5158b9d6-1fbc-4067-89e4-18cc0c442c95
+    src: Rekurzija_04_CifreBroja_Test.rst
+    title: Рекурзија - цифре у запису броја - тест
+    type: quiz
+  - description: ''
+    file: Rekurzija_05_StekOkviri.html
+    guid: d89e61e9-5f3d-4f84-8c00-ae4489b5beb2
+    src: Rekurzija_05_StekOkviri.rst
+    title: 3.4 Рекурзија - како ради рекурзија (програмски стек)
+    type: reading
+  - description: ''
+    file: Rekurzija_05_StekOkviri_Test.html
+    guid: 477b35c5-435e-4df5-a22c-4ab6f535b27c
+    src: Rekurzija_05_StekOkviri_Test.rst
+    title: Рекурзија - како ради рекурзија - тест
+    type: quiz
+  archived-activities: []
+  description: Рекурзија
+  folder: rekurzija
+  guid: 2af6f5cc-192f-4abe-9d3e-2f4b8c5f0567
+  normalized_title: 3. Рекурзија
+  title: 3. Рекурзија
+- activities:
+  - description: ''
+    file: PodeliPaVladaj_01_uvod.html
+    guid: c6a572eb-20f4-474d-8acf-58815c21d676
+    src: PodeliPaVladaj_01_uvod.rst
+    title: 4.0 Подели па владај - увод
+    type: reading
+  - description: ''
+    file: Trimini.html
+    guid: 280521c4-d58b-43b2-aa5c-0b84e99b1487
+    src: Trimini.rst
+    title: 4.1 Подели па владај - тримини
+    type: reading
+  - description: ''
+    file: PodeliPaVladaj_02_sort.html
+    guid: 50493cda-5ab8-4cdf-a848-0d1fc251573d
+    src: PodeliPaVladaj_02_sort.rst
+    title: 4.2 Подели па владај - сортирања
+    type: reading
+  archived-activities: []
+  description: Подели па владај
+  folder: dq
+  guid: 608b731a-083c-4703-b054-761cd8886186
+  normalized_title: 4. Подели па владај
+  title: 4. Подели па владај
+- activities:
+  - description: ''
+    file: DP_01_Fibonaci.html
+    guid: f07ba558-40cb-4db4-bee0-1270d5205c17
+    src: DP_01_Fibonaci.rst
+    title: Динамичко програмирање - Фибоначијев низ
+    type: reading
+  - description: ''
+    file: DP_01_Fibonaci_Test.html
+    guid: 41560d9d-6e18-4d5a-ab54-e407849c1114
+    src: DP_01_Fibonaci_Test.rst
+    title: Динамичко програмирање - тест
+    type: quiz
+  - description: ''
+    file: DP_03_Novcici.html
+    guid: 82edad95-fcf7-4cb5-9131-fbdfab96a42e
+    src: DP_03_Novcici.rst
+    title: Динамичко програмирање - новчићи
+    type: reading
+  - description: ''
+    file: DP_04_Edit_Rastojanje.html
+    guid: 8ef0901c-91ec-4be1-ab96-400926220bc4
+    src: DP_04_Edit_Rastojanje.rst
+    title: Динамичко програмирање - растојање
+    type: reading
+  - description: ''
+    file: DP_05_LIS.html
+    guid: 200e8559-9a51-43e2-a2cd-f64dbeb4be05
+    src: DP_05_LIS.rst
+    title: Динамичко програмирање - најдужи растући подниз
+    type: reading
+  - description: ''
+    file: Динамичко програмирање - задаци.html
+    guid: 4fb5e7f1-25cf-4f6e-81cc-0da19ea18064
+    src:
+    - https://petlja.org/biblioteka/r/Zbirka2/max_zbir_puta_kroz_matricu
+    - https://petlja.org/biblioteka/r/Zbirka2/cilindricna_matrica
+    - https://petlja.org/biblioteka/r/Zbirka2/najduzi_zajednicki_podniz_stringa
+    - https://petlja.org/biblioteka/r/Zbirka2/najduza_zajednicka_podniska
+    - https://petlja.org/biblioteka/r/Zbirka2/dopuna_nulama_do_max_skalarnog_proizvoda
+    title: Динамичко програмирање - задаци
+    type: coding-quiz
+  archived-activities: []
+  description: Динамичко програмирање
+  folder: dp
+  guid: eb18bc21-294d-4758-b8b9-e43c2fa0e87f
+  normalized_title: 5. Динамичко програмирање
+  title: 5. Динамичко програмирање
+title: Програмирање за други разред специјализованих ИТ одељења

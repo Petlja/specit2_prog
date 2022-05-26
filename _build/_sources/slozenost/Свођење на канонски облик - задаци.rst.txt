@@ -1,0 +1,12 @@
+==================================
+Свођење на канонски облик - задаци
+==================================
+
+    https://petlja.org/biblioteka/r/Zbirka2/anagram
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/d_permutacija
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/anagrami
+

@@ -1,0 +1,30 @@
+=================================
+Скупови и мапе (речници) - задаци
+=================================
+
+    https://petlja.org/biblioteka/r/Zbirka2/duplikati1
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/dvostruki_student1
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/neupareni_element1
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/najbrojniji_element1
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/najveci_duplikat1
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/razlicite_duzine_duzi1
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/broj_parova_datog_zbira1
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/three_sum
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/provera_permutacija1
+

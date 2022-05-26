@@ -1,0 +1,39 @@
+======================================================
+Збирови префикса и разлике суседних елемената - задаци
+======================================================
+
+    https://petlja.org/biblioteka/r/Zbirka2/aritmeticki_trougao1
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/sume_segmenata
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/maksimalni_zbir_segmenta
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/segment_celih_datog_zbira1
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/segment_prirodnih_datog_zbira
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/segmenti_deljivi_sa_k
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/slatkisi_za_sav_novac
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/zbirovi_podmatrica
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/par_proizvoda_u_rancu
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/uvecavanje_segmenata
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/najbrojniji_presek_intervala
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/permutacija_sa_najvecim_zbirom_upita
+

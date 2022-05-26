@@ -1,0 +1,18 @@
+==========================================
+Сортирање по разним критеријумима - задаци
+==========================================
+
+    https://petlja.org/biblioteka/r/Zbirka2/najvredniji_predmeti
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/sortiranje_linija
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/sortiranje_po_proseku
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/rang_svakog_elementa
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/dvobojka
+

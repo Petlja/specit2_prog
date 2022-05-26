@@ -1,0 +1,18 @@
+=========================
+Обрада дупликата - задаци
+=========================
+
+    https://petlja.org/biblioteka/r/Zbirka2/dvostruki_student
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/neupareni_element
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/najveci_duplikat
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/razlicite_duzine_duzi
+
+
+    https://petlja.org/biblioteka/r/Zbirka2/najbrojniji_element
+
