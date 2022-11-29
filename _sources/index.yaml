@@ -98,7 +98,7 @@ lessons:
           - https://petlja.org/biblioteka/r/Zbirka2/hlebovi # neresen
           - https://petlja.org/biblioteka/r/Zbirka2/deljivi_oko_broja # neresen
           - https://petlja.org/biblioteka/r/problemi/Zbirka/broj_deljivih_u_intervalu # resen
-          - https://petlja.org/biblioteka/r/problemi/Zbirka/euklid # resen
+          - https://petlja.org/biblioteka/r/Zbirka3/euklid # resen
         guid: 2660a03c-ecb7-4f18-b73b-f298e3b0794d
       - type: reading        
         title: "2.3 Одсецање"
