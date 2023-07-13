@@ -38,7 +38,7 @@
 .. mchoice:: slozenost_q03
     :answer_a: пет до десет минута
     :answer_b: један до пет минута
-    :answer_c: 10 секунди до мунут
+    :answer_c: 10 секунди до минут
     :answer_d: 1 до 10 секунди
     :answer_e: мање од секунде
     :correct: a

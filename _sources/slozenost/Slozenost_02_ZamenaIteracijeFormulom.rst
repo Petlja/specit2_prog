@@ -38,7 +38,7 @@
 збир првих :math:`n` елемената аритметичког низа :math:`a_0`,
 :math:`а_0 + d`, :math:`a_0 + 2d`, :math:`\ldots`.
 
-.. math:: а_n = а_0 + (n-1)d
+.. math:: a_n = а_0 + (n-1)d
 
 .. math:: \sum_{i=0}^{n} a_i = \frac{n(a_0 + a_n)}{2},
 
@@ -46,7 +46,7 @@
 геометријског низа :math:`a_0`, :math:`а_0\cdot q`,
 :math:`a_0 \cdot q^2`, :math:`\ldots`.
 
-.. math:: а_n = а_0\cdot q^n
+.. math:: a_n = a_0\cdot q^n
 
 .. math:: \sum_{i=0}^{n} a_i = a_0\frac{1-q^{n+1}}{1-q}.
 
