@@ -2,9 +2,9 @@
 
 Ovaj repozitorijum posvećen je kursu za Programiranje za drugi razred specijalizovanih IT odeljenja. 
 
-Kurs je na Petljom portalu dotupan ovde: [https://petlja.org/kurs/370/0](https://petlja.org/kurs/370/)
+Kurs je na Petljinom portalu dotupan ovde: [https://petlja.org/kurs/370/0](https://petlja.org/kurs/370/)
 
-Kurs možete itegrisati u svoj LMS koristeći SCORM pakete koji se mogu preuzeti sa: https://github.com/Petlja/specit2_prog/releases
+Kurs možete integrisati u svoj LMS koristeći SCORM pakete koji se mogu preuzeti sa: https://github.com/Petlja/specit2_prog/releases
 
 ## Konverzija u *HTML*
 
